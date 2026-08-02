@@ -96,3 +96,16 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 </p>
 
 ---
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/kayamdimpul" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:kayamdimpul@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
