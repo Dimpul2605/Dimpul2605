@@ -4,6 +4,14 @@
 
 <h1 align="center">Hi 👋, I'm Dimpul Kayam</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Turning+Raw+Data+Into+Meaningful+Insights;Building+Real-World+Data+Engineering+Projects;Python+%7C+SQL+%7C+PySpark+%7C+Azure;Always+Learning+%26+Growing" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>Transforming data into meaningful solutions, one project at a time.</i>
+</p>
+
 <p align="left">
 <a href="https://linkedin.com/in/kayamdimpul" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
@@ -12,14 +20,6 @@
 <a href="mailto:kayamdimpul@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Turning+Raw+Data+Into+Meaningful+Insights;Building+Real-World+Data+Engineering+Projects;Python+%7C+SQL+%7C+PySpark+%7C+Azure;Always+Learning+%26+Growing" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <i>Transforming data into meaningful solutions, one project at a time.</i>
 </p>
 
 ---
