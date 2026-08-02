@@ -34,4 +34,31 @@ I believe the best way to learn is by building, experimenting, and continuously 
 
 <br clear="right"/>
 
+---
+
+# 🗺️ My Learning Journey
+
+I'm continuously expanding my skills to become a well-rounded Data Engineer. Here's my current roadmap:
+
+| Status | Technology |
+|:------:|------------|
+| ✅ | Python |
+| ✅ | SQL |
+| ✅ | Git & GitHub |
+| 🟡 | PySpark |
+| 🟡 | Azure Databricks |
+| 🟡 | Azure Data Factory |
+| 🔜 | Apache Spark |
+| 🔜 | Docker |
+| 🔜 | Apache Airflow |
+| 🔜 | Azure Synapse Analytics |
+| 🔜 | Kafka |
+
+> 📌 **Legend:**  
+> ✅ Comfortable & Practicing  
+> 🟡 Currently Learning  
+> 🔜 Planned for Future Learning
+
+---
+
 
