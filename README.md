@@ -89,10 +89,10 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dimpul2605&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimpul2605&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
