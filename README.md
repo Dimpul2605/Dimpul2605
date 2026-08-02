@@ -12,7 +12,7 @@
   <em>Building scalable data solutions, one project at a time.</em>
 </p>
 
----
+<br>
 
 ## 👨‍💻 About Me
 
