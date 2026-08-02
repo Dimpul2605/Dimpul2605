@@ -117,3 +117,10 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 </p>
 
 ---
+## 💬 Quote of the Day
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
