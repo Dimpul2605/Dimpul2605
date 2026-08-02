@@ -12,7 +12,7 @@
   <i>Transforming data into meaningful solutions, one project at a time.</i>
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/kayamdimpul" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
