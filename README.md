@@ -114,15 +114,7 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dimpul2605/Dimpul2605/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>## 🐍 Contribution Snake
-
-
-
----
 
 ## 💬 Quote of the Day
 
