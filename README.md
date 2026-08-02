@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dimpul Kayam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+PySpark+%7C+Azure;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Engineer;Python+%7C+SQL+%7C+PySpark+%7C+Azure;Learning+•+Building+•+Growing+as+a+Data Engineer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
