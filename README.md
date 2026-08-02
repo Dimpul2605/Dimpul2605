@@ -18,17 +18,19 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-🎓 **BCA Graduate**
+I'm an aspiring **Data Engineer** with a passion for designing efficient data solutions and learning modern data technologies.
 
-💻 **Aspiring Data Engineer**
+Currently, I'm expanding my skills in **Python, SQL, PySpark, Azure Databricks, and Azure Data Factory** while building practical projects that simulate real-world data engineering workflows.
 
-🌱 Currently learning **Python, SQL, PySpark, Azure Databricks & Azure Data Factory**
+I believe the best way to learn is by building, experimenting, and continuously improving. This GitHub profile is where I document that journey through projects, experiments, and new technologies.
 
-🚀 Passionate about building scalable data pipelines and solving real-world data problems
+### 🎯 Current Goals
 
-📚 I enjoy learning by building practical projects and continuously improving my technical skills
-
-🎯 **Goal:** Become a skilled Data Engineer and contribute to building scalable, reliable data solutions.
+- Build production-ready Data Engineering projects
+- Master ETL and Data Pipeline development
+- Learn Cloud-based Data Engineering
+- Contribute to Open Source
+- Keep learning something new every day
 
 <br clear="right"/>
 
