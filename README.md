@@ -120,10 +120,14 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 </p>
 
 ---
+---
+
 <div align="center">
 
-### Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting!
 
-*"Learning, Building, and Growing Every Day."*
+If you like my work, feel free to explore my repositories and connect with me.
+
+🚀 Learning • Building • Growing Every Day
 
 </div>
