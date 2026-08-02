@@ -12,7 +12,27 @@
   <em>Building scalable data solutions, one project at a time.</em>
 </p>
 
-<!--
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 **BCA Graduate**
+
+💻 **Aspiring Data Engineer**
+
+🌱 Currently learning **Python, SQL, PySpark, Azure Databricks & Azure Data Factory**
+
+🚀 Passionate about building scalable data pipelines and solving real-world data problems
+
+📚 I enjoy learning by building practical projects and continuously improving my technical skills
+
+🎯 **Goal:** Become a skilled Data Engineer and contribute to building scalable, reliable data solutions.
+
+<br clear="right"/>
+
+---<!--
 **Dimpul2605/Dimpul2605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
