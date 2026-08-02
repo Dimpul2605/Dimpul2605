@@ -121,7 +121,6 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 </p>
 
 ---
----
 
 <div align="center">
 
