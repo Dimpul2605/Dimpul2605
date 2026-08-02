@@ -4,6 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm Dimpul Kayam</h1>
 
+<p align="left">
+<a href="https://linkedin.com/in/kayamdimpul" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:kayamdimpul@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Turning+Raw+Data+Into+Meaningful+Insights;Building+Real-World+Data+Engineering+Projects;Python+%7C+SQL+%7C+PySpark+%7C+Azure;Always+Learning+%26+Growing" alt="Typing SVG" />
 </p>
@@ -94,20 +104,6 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dimpul2605&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-## 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/kayamdimpul" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:kayamdimpul@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
-
 ---
 
 ## 👀 Profile Visitors
