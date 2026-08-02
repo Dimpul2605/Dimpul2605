@@ -18,19 +18,19 @@
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-I'm an aspiring **Data Engineer** with a passion for designing efficient data solutions and learning modern data technologies.
+I'm an aspiring **Data Engineer** with a passion for building efficient, scalable, and reliable data solutions.
 
-Currently, I'm expanding my skills in **Python, SQL, PySpark, Azure Databricks, and Azure Data Factory** while building practical projects that simulate real-world data engineering workflows.
+My journey is focused on understanding how data flows through modern systems, from ingestion and transformation to analytics. I enjoy solving problems with code, learning new technologies, and applying them through hands-on projects.
 
-I believe the best way to learn is by building, experimenting, and continuously improving. This GitHub profile is where I document that journey through projects, experiments, and new technologies.
+Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databricks, and Azure Data Factory**, while building a GitHub portfolio that reflects my growth as a data engineer.
 
 ### 🎯 Current Goals
 
-- Build production-ready Data Engineering projects
-- Master ETL and Data Pipeline development
-- Learn Cloud-based Data Engineering
-- Contribute to Open Source
-- Keep learning something new every day
+- 🚀 Build real-world Data Engineering projects
+- 📊 Design scalable ETL and data pipelines
+- ☁️ Learn cloud-based data engineering on Azure
+- 🤝 Contribute to open-source projects
+- 📚 Continuously improve through hands-on learning
 
 <br clear="right"/>
 
