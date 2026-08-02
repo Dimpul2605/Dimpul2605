@@ -36,29 +36,44 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 
 ---
 
-# 🗺️ My Learning Journey
+---
 
-I'm continuously expanding my skills to become a well-rounded Data Engineer. Here's my current roadmap:
+# 🛠️ Tech Stack
 
-| Status | Technology |
-|:------:|------------|
-| ✅ | Python |
-| ✅ | SQL |
-| ✅ | Git & GitHub |
-| 🟡 | PySpark |
-| 🟡 | Azure Databricks |
-| 🟡 | Azure Data Factory |
-| 🔜 | Apache Spark |
-| 🔜 | Docker |
-| 🔜 | Apache Airflow |
-| 🔜 | Azure Synapse Analytics |
-| 🔜 | Kafka |
+### 👨‍💻 Programming Languages
 
-> 📌 **Legend:**  
-> ✅ Comfortable & Practicing  
-> 🟡 Currently Learning  
-> 🔜 Planned for Future Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### ⚡ Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & IDEs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### 📊 Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+---
 ---
 
 
