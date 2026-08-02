@@ -109,3 +109,11 @@ Currently, I'm strengthening my skills in **Python, SQL, PySpark, Azure Databric
 </p>
 
 ---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dimpul2605&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
